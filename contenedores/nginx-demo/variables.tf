@@ -11,3 +11,4 @@ variable "ecs_cluster" {
   type        = "string"
   description = "indicar el nombre del cluster"
 }
+
